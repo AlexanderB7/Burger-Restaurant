@@ -1,0 +1,26 @@
+{
+  "name": "burger-restaurant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderB7/Burger-Restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderB7/Burger-Restaurant/issues"
+  },
+  "homepage": "https://github.com/AlexanderB7/Burger-Restaurant#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "mysql": "^2.16.0",
+    "node": "^11.12.0",
+    "path": "^0.12.7"
+  }
+}
